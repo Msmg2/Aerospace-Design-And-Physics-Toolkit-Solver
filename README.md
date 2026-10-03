@@ -14,3 +14,5 @@ ii) Feasibility Check
 
 Secondary function:
 i) Potential Failure Warning System
+
+Had this in my mind for literal years, finally came around to actually building it.
