@@ -5,8 +5,12 @@ Since one of my seniors and juniors are making their own solvers, why should I b
 
 About the Repo:
 Make a unified tool for aircraft design for multiple archetypes, along with first order and second order relevant physics.
+
+
 Primary function:
 i) Preliminary design
 ii) Feasibility Check
+
+
 Secondary function:
 i) Potential Failure Warning System
