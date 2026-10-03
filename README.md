@@ -19,7 +19,10 @@ Had this in my mind for literal years, finally came around to actually building 
 
 ## Current Progress
 Implemented the weight estimator for wing shaped bodies. Need to work on fuselage.
-Main is incomplete as I am currently still trying to decide how am I going to call it
+Main.py is incomplete as I am currently still trying to decide how am I going to call it.
+
+Main Branch is not for use purposes, viable branches will have a version (eg v0.0, v1.3 etc)
+
 
 ## Targets for v0 release:
 1) Complete Weight Estimation
