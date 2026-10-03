@@ -1,4 +1,4 @@
-# Aerospace-Design-Physics-Solver
+# Aerospace-Design-And-Physics-Toolkit-Solver
 Just a passion project where I just apply what I learnt in 5 years in IITB
 
 Since one of my seniors and juniors are making their own solvers, why should I be left out.
