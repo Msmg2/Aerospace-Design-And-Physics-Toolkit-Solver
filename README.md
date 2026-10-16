@@ -17,6 +17,10 @@ i) Potential Failure Warning System
 
 Had this in my mind for literal years, finally came around to actually building it.
 
+# Version 0.0 Release
+
+Implemented basic design with aerodynamics, rotor calculation, and Weight estimation
+
 # Dependancies
 Numpy 2.4.0
 
