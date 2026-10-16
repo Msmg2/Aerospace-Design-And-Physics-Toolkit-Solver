@@ -17,3 +17,6 @@ i) Potential Failure Warning System
 
 Had this in my mind for literal years, finally came around to actually building it.
 
+# Dependancies
+Numpy 2.4.0
+Matplotlib 3.10.8 
