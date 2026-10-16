@@ -16,3 +16,5 @@ Secondary function:
 i) Potential Failure Warning System
 
 Had this in my mind for literal years, finally came around to actually building it.
+
+# V0.0 is out, check out the v0.0 branch
