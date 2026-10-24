@@ -25,3 +25,7 @@ Implemented basic design with aerodynamics, rotor calculation, and Weight estima
 Numpy 2.4.0
 
 Matplotlib 3.10.8 
+
+# How to run the software
+
+Simply Execute main.py while keeping the directory of the folder to the one with all the modules.
